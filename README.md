@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ADE6E6
+- 👀 I’m interested in software engineering and advanced programming
+- 🌱 I’m currently learning more in-depth protocol networking development
+- 💞️ I’m looking to collaborate on some cool Minecraft projects in the future
+- 📫 How to reach me ade6e6@orecurse.com
